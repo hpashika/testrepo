@@ -1,4 +1,4 @@
-<mxfile modified="2021-02-22T12:29:31.668Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="HfH0wJkhxPR9KIfxeuF9" version="14.4.2" type="github">
+<mxfile modified="2021-02-22T12:49:55.165Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="SAZ5xU0s-BzzpcIStf0G" version="14.4.2" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="2595" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -93,7 +93,7 @@
             <mxPoint x="400" y="184" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bDfId1kQ4imyyXlbz6ZG-45" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;This Configuration needs to be done by a Tenancy Administrator on the OCI Console. This does not require any code changes to FALCM/FRE components.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" vertex="1" parent="ezOrrWx1QWAtPi0Ws5CB-157">
+        <mxCell id="bDfId1kQ4imyyXlbz6ZG-45" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;This Configuration needs to be done by a Tenancy Administrator on the OCI Console. This does not require any code changes to FALCM/FRE components.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;TST_PODMGR_DYNGRP : An IAM Dynamic Group to identify PODMGR Compute VMS&lt;/p&gt;&lt;p&gt;Log Group : A Logical Container of OCI Log resources.&lt;/p&gt;&lt;p&gt;Log : An OCI Log resource to which the log events are channeled.&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" vertex="1" parent="ezOrrWx1QWAtPi0Ws5CB-157">
           <mxGeometry x="370" y="329" width="190" height="301" as="geometry" />
         </mxCell>
         <mxCell id="bDfId1kQ4imyyXlbz6ZG-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bDfId1kQ4imyyXlbz6ZG-13">
