@@ -1,4 +1,4 @@
-<mxfile modified="2021-02-22T12:15:59.506Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="5BOxqXozje6KkprCO3M2" version="14.4.2" type="github">
+<mxfile modified="2021-02-22T12:17:08.152Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="GhvKm5Recg41phsjucVq" version="14.4.2" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="2595" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -114,10 +114,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bDfId1kQ4imyyXlbz6ZG-38" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="600" y="414" width="511" height="234" as="geometry" />
+          <mxGeometry x="600" y="401" width="511" height="234" as="geometry" />
         </mxCell>
         <mxCell id="ezOrrWx1QWAtPi0Ws5CB-144" value="Policy with read resources in tenancy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="bDfId1kQ4imyyXlbz6ZG-38" vertex="1">
-          <mxGeometry x="51" y="199" width="210" height="20" as="geometry" />
+          <mxGeometry x="51" y="158" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bDfId1kQ4imyyXlbz6ZG-25" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Container_Instances.svg;" vertex="1" parent="bDfId1kQ4imyyXlbz6ZG-38">
           <mxGeometry x="2.269999999999982" width="30" height="30" as="geometry" />
@@ -131,14 +131,8 @@
         <mxCell id="bDfId1kQ4imyyXlbz6ZG-28" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.document" vertex="1" parent="bDfId1kQ4imyyXlbz6ZG-38">
           <mxGeometry x="1" y="120" width="24" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bDfId1kQ4imyyXlbz6ZG-29" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#5A30B5;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.gateway;" vertex="1" parent="bDfId1kQ4imyyXlbz6ZG-38">
-          <mxGeometry y="160" width="29.23" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="bDfId1kQ4imyyXlbz6ZG-30" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.access_control;dashed=1;" vertex="1" parent="bDfId1kQ4imyyXlbz6ZG-38">
-          <mxGeometry x="2.269999999999982" y="199" width="38.73" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="bDfId1kQ4imyyXlbz6ZG-33" value="OCI Service Gateway to route Log updates to Logging Service from podmgr vcn" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="bDfId1kQ4imyyXlbz6ZG-38">
-          <mxGeometry x="51" y="160" width="430" height="20" as="geometry" />
+          <mxGeometry x="2.269999999999982" y="158" width="38.73" height="35" as="geometry" />
         </mxCell>
         <mxCell id="bDfId1kQ4imyyXlbz6ZG-34" value="OCI Log Resource identified by OCID, all log events are mapped to this resource." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="bDfId1kQ4imyyXlbz6ZG-38">
           <mxGeometry x="51" y="120" width="440" height="20" as="geometry" />
