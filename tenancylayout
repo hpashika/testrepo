@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-20T07:38:04.882Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="tQZQPNC7OYlFLEARAVrR" version="15.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-20T07:38:59.645Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="-ChDjv4krPQLVArsOCmT" version="15.5.6" type="github">
   <diagram id="SJ9jEAA7eBD1ZKxv4Zyy" name="Page-1">
     <mxGraphModel dx="1426" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -211,8 +211,8 @@
         <mxCell id="KQ6JEDqC2x1aeReZNAva-112" value="fre" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="80" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KQ6JEDqC2x1aeReZNAva-114" value="fredev Tenancy Root Compartment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="40" width="230" height="30" as="geometry" />
+        <mxCell id="KQ6JEDqC2x1aeReZNAva-114" value="FREDEV Tenancy Root Compartment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="61.25" y="40" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
